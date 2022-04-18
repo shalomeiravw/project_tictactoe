@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\bin\Debug\week13.exe.config
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\bin\Debug\week13.exe
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\bin\Debug\week13.pdb
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.csprojAssemblyReference.cache
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.Form1.resources
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.Properties.Resources.resources
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.csproj.GenerateResource.cache
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.exe
+C:\Users\User\source\repos\feliciagraciella\tictactoe1\week13\week13\obj\Debug\week13.pdb
